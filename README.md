@@ -136,3 +136,9 @@ Finally, to completely wipe the virtual machine from the disk **destroying all i
     host $ vagrant destroy # DANGER: all is gone
 
 Please check the [Vagrant documentation](http://vagrantup.com/v1/docs/index.html) for more information on Vagrant.
+
+
+## Emergencies
+
+Troubles with rvm and ruby? [Christoph Eberl](http://multimediatechnology.at/~fhs34768/rubyonrails/) wrote
+about reinstalling them from scratch.
